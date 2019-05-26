@@ -57,3 +57,24 @@ padding:  100px 400px;
 {
     border-radius: 5px;
 }
+
+.create-section, .share-section
+{
+    height: 270px;
+    padding:  50px;
+}
+
+.btn-outline-light
+{
+    color: #f8f9fa;
+    background-color: transparent;
+    background-image: none;
+    border-color: #f8f9fa;
+}
+
+.passon-section
+{
+    height: 500px;
+}
+
+ 
