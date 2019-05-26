@@ -26,3 +26,34 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
+.image-content
+{
+padding:  100px 400px;
+}
+
+.explore-section-head
+{ 
+    background-color: #333333;
+    height: 280px;
+} 
+
+
+.explore-section-div{
+    padding-top: 50px;
+    
+}
+
+.pb-5, .py-5 {
+     padding-bottom: 3rem!important; 
+}
+
+.img-fluid
+{
+    max-width: 100%;
+}
+
+.check-box-round
+{
+    border-radius: 5px;
+}
