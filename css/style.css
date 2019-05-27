@@ -10,16 +10,17 @@
 #home-section .home-inner {
     padding-top: 150px;
 }
+
 #home-section .dark-overlay {
-     /* position: absolute;  */
+    /* position: absolute;  */
     top: 0;
     left: 0;
     width: 100%;
     min-height: 700px;
     background: rgba(0, 0, 0, 0.7);
 }
-#home-section
-{
+
+#home-section {
     height: 700px;
     background-image: url('../img/home.jpg');
     background-repeat: no-repeat;
@@ -27,54 +28,49 @@
     background-attachment: fixed;
 }
 
-.image-content
-{
-padding:  100px 400px;
+.image-content {
+    padding: 100px 400px;
 }
 
-.explore-section-head
-{ 
+.explore-section-head {
     background-color: #333333;
     height: 280px;
-} 
+}
 
-
-.explore-section-div{
+.explore-section-div {
     padding-top: 50px;
-    
 }
 
-.pb-5, .py-5 {
-     padding-bottom: 3rem!important; 
+.pb-5,
+.py-5 {
+    padding-bottom: 3rem!important;
 }
 
-.img-fluid
-{
+.img-fluid {
     max-width: 100%;
 }
 
-.check-box-round
-{
+.check-box-round {
     border-radius: 5px;
 }
 
-.create-section, .share-section
-{
+.create-section,
+.share-section {
     height: 270px;
-    padding:  50px;
+    padding: 50px;
 }
 
-.btn-outline-light
-{
+.btn-outline-light {
     color: #f8f9fa;
     background-color: transparent;
     background-image: none;
     border-color: #f8f9fa;
 }
 
-.passon-section
-{
+.passon-section {
     height: 500px;
 }
 
- 
+.pad-50 {
+    padding: 20px 0px
+}
